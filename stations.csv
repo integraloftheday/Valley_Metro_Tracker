@@ -1,0 +1,47 @@
+﻿LED_ID,StationName,Jurisdiction,StationStatus,POINT_X,POINT_Y,NextRide,Address,,x,y
+0,Metro Parkway,Phoenix,In Operation,-112.1175874,33.5767664,18900,9830 N Metro Pkwy East,,638612.3717,936813.1391
+1,Mountain View / 25th Ave,Phoenix,In Operation,-112.1122556,33.57305374,,,,640428.4537,936088.0784
+2,25th Ave / Dunlap,Phoenix,In Operation,-112.1113026,33.56755303,,,,640714.9596,934086.0607
+3,19th Ave / Dunlap,Phoenix,In Operation,-112.0993888,33.56708951,18608,1935 W Dunlap Ave,,643925.8366,934023.0151
+4,Northern / 19th Ave,Phoenix,In Operation,-112.0993595,33.55318964,18607,7832 N 19th Ave,,644260.3402,928445.8602
+5,Glendale / 19th Ave,Phoenix,In Operation,-112.0993289,33.53864324,18606,6813 N 19th Ave,,644228.9987,923101.9688
+6,Montebello / 19th Ave,Phoenix,In Operation,-112.099731,33.52059185,10001,5645 North 19th Ave,,644209.0344,916991.9462
+7,19th Ave / Camelback,Phoenix,In Operation,-112.0988071,33.50954307,10002,1855 West Camelback Road ,,644483.5522,912971.3022
+8,7th Ave / Camelback,Phoenix,In Operation,-112.0833362,33.50930817,10003,705 West Camelback Road,,649198.9603,912877.9091
+9,Central Ave / Camelback,Phoenix,In Operation,-112.0753075,33.50866627,10004,77 West Camelback Road,,651645.4216,912640.2008
+10,Campbell / Central Ave,Phoenix,In Operation,-112.0737859,33.50140989,10005,4411 North Central Avenue,,652105.5489,909999.5499
+11,Indian School / Central Ave,Phoenix,In Operation,-112.0737874,33.49575409,10006,4111 North Central Avenue,,652101.9692,907941.6699
+12,Osborn / Central Ave,Phoenix,In Operation,-112.0738069,33.4868613,10007,3335 North Central Avenue,,652091.1417,904706.0157
+13,Thomas / Central Ave,Phoenix,In Operation,-112.0737716,33.48122748,10008,2903 North Central Avenue,,652098.7995,902656.1191
+14,Encanto / Central Ave,Phoenix,In Operation,-112.0738151,33.47366706,10009,2325 North Central Avenue,,652081.3842,899905.2661
+15,McDowell / Central Ave,Phoenix,In Operation,-112.0738207,33.46472524,10010,1502 North Central Avenue,,652074.7346,896651.7746
+16,Roosevelt / Central Ave,Phoenix,In Operation,-112.0738509,33.45934915,10011,1004 North Central Avenue,,652066.2933,894697.3419
+17,Van Buren / Central Ave,Phoenix,In Operation,-112.0739284,33.45191463,10033,304 North Central Avenue,,652023.1752,891990.6158
+17,Van Buren / 1st Ave,Phoenix,In Operation,-112.0750916,33.45192574,10012,303 North 1st Avenue,,651691.7441,891995.1978
+18,Washington / Central Ave,Phoenix,In Operation,-112.0738947,33.44888009,10032,4 North Central Avenue,,652033.438,890885.0643
+18,Jefferson / 1st Ave,Phoenix,In Operation,-112.0752017,33.44777443,10013,70 South 1st Avenue,,651632.5354,890484.7861
+19,3rd St / Washington,Phoenix,In Operation,-112.0706185,33.44831856,10031,270 East Washington Street,,653041.8074,890692.4003
+19,3rd St / Jefferson,Phoenix,In Operation,-112.0693114,33.44630408,10014,333 East Jefferson Street,,653440.0554,889935.3868
+20,12th St / Washington,Phoenix,In Operation,-112.0572116,33.44821975,10030,1135 East Washington Street,,657131.6919,890649.6385
+20,12th St / Jefferson,Phoenix,In Operation,-112.0556596,33.44722879,10015,1228 East Jefferson Street,,657604.6345,890267.1066
+21,24th St / Washington,Phoenix,In Operation,-112.0292885,33.44822322,10029,2411 East Washington Street,,665648.5558,890618.2123
+21,24th St / Jefferson,Phoenix,In Operation,-112.0292812,33.44719506,10016,2416 East Jefferson St,,665650.1155,890267.5597
+22,38th St / Washington,Phoenix,In Operation,-111.9998864,33.44810237,10017,3763 East Washington Street,,674616.7188,890577.4541
+23,44th St / Washington,Phoenix,In Operation,-111.9879831,33.44816993,10018,4203 East Washington Street,,678247.4016,890599.3415
+24,50th St / Washington St,Phoenix,In Operation,-111.9747409,33.44692976,18716,,,682286.2221,890145.5932
+25,Priest Dr / Washington St,Tempe,In Operation,-111.9560903,33.44200283,10019,1166 West Washington Street,,687974.4196,888350.3064
+26,Center Pkwy / Washington,Tempe,In Operation,-111.9466274,33.4380634,10020,702 West Washington Street,,690860.3796,886915.8153
+27,Mill Ave / 3rd St,Tempe,In Operation,-111.9406801,33.4275021,10021,50 West 3rd Street,,692673.8212,883072.77
+28,Veterans Way / College Ave,Tempe,In Operation,-111.9359264,33.42612828,10022,220 East 5th Street,,694125.7982,882571.6978
+29,University Dr / Rural Rd,Tempe,In Operation,-111.9269093,33.42076255,10023,840 South Rural Road,,696876.7661,880618.2999
+30,Dorsey Ln / Apache Blvd,Tempe,In Operation,-111.9168813,33.41476037,10024,1402 East Apache Boulevard,,699934.501,878435.8583
+31,McClintock Dr / Apache Blvd,Tempe,In Operation,-111.90824,33.41472587,10025,1822 East Apache Boulevard,,702571.2339,878423.4088
+32,Smith-Martin / Apache Blvd,Tempe,In Operation,-111.9007658,33.41478347,10026,1964 East Apache Boulevard,,704851.8524,878444.6342
+33,Price-101 / Apache Blvd,Tempe,In Operation,-111.8880868,33.41481344,10027,2338 East Apache Boulevard,,708720.6325,878456.3638
+34,Sycamore / Main St,Mesa,In Operation,-111.8708912,33.41485085,10028,1830 West Main Street,,713967.5292,878471.8533
+35,Alma School / Main St,Mesa,In Operation,-111.8555496,33.41493761,18600,1128 West Main Street,,718643.8835,878507.0961
+36,Country Club / Main St,Mesa,In Operation,-111.8390359,33.41511499,18601,300 West Main Street,,723676.2513,878575.6611
+37,Center / Main St,Mesa,In Operation,-111.8306604,33.41509754,18602,26 East Main Street,,726247.5682,878572.8615
+38,Mesa Dr / Main St,Mesa,In Operation,-111.8221914,33.41507829,18603,424 East Main Street,,728841.6909,878559.3238
+39,Stapley Dr / Main St,Mesa,In Operation,-111.8049355,33.4152378,18717,,,734743.6115,878627.8773
+40,Gilbert Rd / Main St,Mesa,In Operation,-111.789026,33.41537564,18718,,,738556.3619,878661.9114
