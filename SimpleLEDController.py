@@ -11,7 +11,7 @@ class SimpleLEDController:
         self.num_leds = 45
         self.chunk_size = 10
         self.current_board = None
-        self.brightness = 50
+        self.brightness = 25
         self.send_to_all = False
         self.active_boards = {}  # Dictionary to store board_id: last_seen
         self.timeout_seconds = 30

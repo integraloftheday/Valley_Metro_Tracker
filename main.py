@@ -15,18 +15,27 @@ NO_TRAIN = 0 #0000
 
 
 #define color mapping for station and direction
+# Updated color mapping for station and direction
 COLOR_CONFIG = {
-    A_WEST:            (128, 0, 0),    # Maroon
-    A_EAST:            (255, 0, 128),  # Magenta/Bright Purple
-    A_WEST | A_EAST:   (102, 0, 102),  # Deep Purple (Combined A)
+    # East/West Line (A) - Blue Variants
+    A_WEST:            (0, 0, 255),    # Pure Blue
+    A_EAST:            (0, 255, 128),  # Spring Green/Turquoise Blue
+    A_WEST | A_EAST:   (0, 128, 255),  # Sky Blue (Combined A)
 
-    B_NORTH:           (0, 160, 220),  # Valley Metro Blue
-    B_SOUTH:           (0, 255, 255),  # Cyan
-    B_NORTH | B_SOUTH: (0, 100, 150),  # Steel Blue (Combined B)
+    # North/South Line (B) - Orange Variants
+    B_NORTH:           (255, 165, 0),  # Orange
+    B_SOUTH:           (255, 69, 0),   # Red-Orange
+    B_NORTH | B_SOUTH: (255, 120, 0),  # Deep Orange (Combined B)
 
-    A_WEST | B_NORTH:  (200, 200, 200), # Silver/Grey Transfer
+    # Transfer Mixing (A | B)
+    # Mixing Blue and Orange typically creates a muddy color,
+    # so we use specific high-contrast colors for transfers.
+    A_WEST | B_NORTH:  (255, 0, 255),  # Magenta (High contrast transfer)
+    A_EAST | B_SOUTH:  (0, 255, 0),    # Green (High contrast transfer)
 
+    # All-way Hub (A_WEST | A_EAST | B_NORTH | B_SOUTH)
     A_WEST | A_EAST | B_NORTH | B_SOUTH: (255, 255, 255), # White (Hub)
+
     0: (0,0,0) # NO TRAIN
 }
 
